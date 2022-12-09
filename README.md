@@ -32,3 +32,4 @@ To get more help on the polygon.io side go to  https://polygon.io/docs/stocks/ge
 
 # Contribute
 This is a private project developed by Felipe Laverde to be used by empowermentlabs
+
